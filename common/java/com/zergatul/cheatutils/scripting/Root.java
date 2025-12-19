@@ -43,6 +43,7 @@ public class Root {
     public static StepUpApi stepUp = new StepUpApi();
     public static AimAssistApi aimAssist = new AimAssistApi();
     public static BreachSwapApi breachSwap = new BreachSwapApi();
+    public static SpearDamageApi spearDamage = new SpearDamageApi();
     public static AirPlaceApi airPlace = new AirPlaceApi();
 
     // visuals

@@ -211,6 +211,13 @@ module({
 });
 module({
     group: 'hacks',
+    name: 'Spear Damage',
+    component: 'SpearDamage',
+    path: 'spear-damage',
+    tags: ['spear', 'damage']
+});
+module({
+    group: 'hacks',
     name: 'Fly',
     component: 'FlyHack',
     path: 'fly',

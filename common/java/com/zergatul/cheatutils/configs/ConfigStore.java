@@ -136,6 +136,7 @@ public class ConfigStore {
         config.keyBindingsConfig.validate();
         config.worldMarkersConfig.validate();
         config.autoAttackConfig.validate();
+        config.spearDamageConfig.validate();
         config.breachSwapConfig.validate();
         config.projectilePathConfig.validate();
         config.chatUtilitiesConfig.validate();

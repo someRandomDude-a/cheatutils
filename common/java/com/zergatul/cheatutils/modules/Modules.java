@@ -78,7 +78,7 @@ public class Modules {
         register(LogoutSpots.instance);
         register(AutoTool.instance);
         register(AirPlace.instance);
-
+        register(SpearDamage.instance);
         // should be after everything so "Don't Attack on Item Use" can work better
         register(KillAura.instance);
 
